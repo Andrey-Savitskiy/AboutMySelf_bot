@@ -23,6 +23,6 @@ VOICE_INLINE_KEYBOARD = InlineKeyboardMarkup(
 LINK_INLINE_KEYBOARD = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton('ПЕРЕЙТИ НА GITHAB', callback_data='last_photo',
-                              url='https://github.com/Andrey-Savitskiy/Test_help_bot')],
+                              url='https://github.com/Andrey-Savitskiy/AboutMySelf_bot')],
     ],
 )
